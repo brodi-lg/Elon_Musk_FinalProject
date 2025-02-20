@@ -42,20 +42,6 @@ While NLP tools like VADER, TextBlob, and BERT offer valuable insights in standa
 - Explore multimodal approaches that incorporate video and audio cues for better sentiment detection.
 - Develop a hybrid model combining human moderation with AI to improve contextual understanding.
 
-## How to Use This Repository
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/youtube-elon-nlp.git
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run sentiment analysis:
-    ```bash
-    python analyze_sentiment.py
-    ```
-
 ## Contributions
 Contributions are welcome! If you have ideas for improving sentiment analysis in complex contexts, feel free to open an issue or submit a pull request.
 
